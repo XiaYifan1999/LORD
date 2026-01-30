@@ -1,6 +1,9 @@
 # LORD
 Code of Locality Optimization Refinement with Deformation for Shape Matching via Functional Maps
 
+## Demo
+Run demo_deformField.m via MATLAB. Note that the size of the shape data imposes requirements on computational memory.
+
 If you find this project useful, please cite:
 
 ```
