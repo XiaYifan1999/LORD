@@ -35,4 +35,4 @@ If you find this project useful, please cite:
 
 # Dataset
 
-The dataset is currently under preparation and will be released in the future.
+All datasets used in this paper are publicly available online. We will further organize and release a unified pipeline for dataset comparison.
