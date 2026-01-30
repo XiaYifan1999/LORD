@@ -2,7 +2,7 @@
 Code of Locality Optimization Refinement with Deformation for Shape Matching via Functional Maps
 This repository provides the implementation of **LOPR**, an extended version of our AAAI conference paper.
 
-- 📄 Paper: [Google Scholar]([https://ojs.aaai.org/index.php/AAAI/article/view/28438])
+- 📄 Paper: [Google Scholar](https://ojs.aaai.org/index.php/AAAI/article/view/28438)
 - 💻 Code: [GitHub](https://github.com/XiaYifan1999/LOPR)
 
 - ## Extention
