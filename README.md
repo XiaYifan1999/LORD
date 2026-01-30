@@ -7,7 +7,7 @@ This repository provides the implementation of **LOPR**, an extended version of 
 
 - ## Extention
 <p align="center">
-  <img src="figures/lopr_lord.png" width="900">
+  <img src="Figures/lopr_lord.png" width="900">
 </p>
 
 ## Demo
@@ -15,7 +15,7 @@ Run demo_deformField.m via MATLAB. Note that the size of the shape data imposes 
 
 - ## Overview
 <p align="center">
-  <img src="figures/diagram.png" width="900">
+  <img src="Figures/diagram.png" width="900">
 </p>
 
 If you find this project useful, please cite:
