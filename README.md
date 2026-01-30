@@ -10,7 +10,7 @@ This repository provides the implementation of **LOPR**, an extended version of 
   <img src="Figures/lopr_lord.png" width="900">
 </p>
 
-## Demo
+- ## Demo
 Run demo_deformField.m via MATLAB. Note that the size of the shape data imposes requirements on computational memory.
 
 - ## Overview
@@ -33,6 +33,6 @@ If you find this project useful, please cite:
 }
 ```
 
-# Dataset
+- ## Dataset
 
 All datasets used in this paper are publicly available online. We will further organize and release a unified pipeline for dataset comparison.
