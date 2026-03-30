@@ -4,6 +4,7 @@ This repository provides the implementation of **LOPR**, an extended version of 
 
 - 📄 Paper: [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28438)
 - 💻 Code: [GitHub](https://github.com/XiaYifan1999/LOPR)
+- 📊 Dataset: [Shape Matching Dataset](https://github.com/XiaYifan1999/Shape-Matching-Dataset)
 
 - ## Extention
 <p align="center">
