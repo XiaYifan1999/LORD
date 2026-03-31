@@ -37,3 +37,7 @@ If you find this project useful, please cite:
 - ## Dataset
 
 All datasets used in this paper are publicly available online. We will further organize and release a unified pipeline for dataset comparison.
+
+- ## Acknowledge
+
+The framework implementation is adapted from [GCPD](https://github.com/AoxiangFan/GeneralizedCoherentPointDrift)
