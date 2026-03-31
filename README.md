@@ -40,4 +40,4 @@ All datasets used in this paper are publicly available online. We will further o
 
 - ## Acknowledge
 
-The framework implementation is adapted from [GCPD](https://github.com/AoxiangFan/GeneralizedCoherentPointDrift)
+The framework implementation is adapted from [MWP](https://github.com/Qinsong-Li/MWP) and [GCPD](https://github.com/AoxiangFan/GeneralizedCoherentPointDrift)
